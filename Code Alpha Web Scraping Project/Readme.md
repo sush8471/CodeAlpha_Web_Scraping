@@ -1,6 +1,6 @@
-# 🌐 IMDb Web Scraping – CodeAlpha Internship Task 1
+# 🌐 IMDb Web Scraping – CodeAlpha Internship Task
 
-This repository contains my submission for **Task 1: Web Scraping** as part of the **CodeAlpha Data Analytics Virtual Internship**.
+This repository contains my submission for **Web Scraping** as part of the **CodeAlpha Data Analytics Virtual Internship**.
 
 ---
 
